@@ -1,0 +1,15 @@
+E:\4_3Shifumi\Shifumi\Shifumi\bin\Debug\Shifumi.exe.config
+E:\4_3Shifumi\Shifumi\Shifumi\bin\Debug\Shifumi.exe
+E:\4_3Shifumi\Shifumi\Shifumi\bin\Debug\Shifumi.pdb
+E:\4_3Shifumi\Shifumi\Shifumi\obj\Debug\Shifumi.csprojAssemblyReference.cache
+E:\4_3Shifumi\Shifumi\Shifumi\obj\Debug\MainWindow.g.cs
+E:\4_3Shifumi\Shifumi\Shifumi\obj\Debug\App.g.cs
+E:\4_3Shifumi\Shifumi\Shifumi\obj\Debug\Shifumi_MarkupCompile.cache
+E:\4_3Shifumi\Shifumi\Shifumi\obj\Debug\Shifumi_MarkupCompile.lref
+E:\4_3Shifumi\Shifumi\Shifumi\obj\Debug\MainWindow.baml
+E:\4_3Shifumi\Shifumi\Shifumi\obj\Debug\Shifumi.g.resources
+E:\4_3Shifumi\Shifumi\Shifumi\obj\Debug\Shifumi.Properties.Resources.resources
+E:\4_3Shifumi\Shifumi\Shifumi\obj\Debug\Shifumi.csproj.GenerateResource.cache
+E:\4_3Shifumi\Shifumi\Shifumi\obj\Debug\Shifumi.csproj.CoreCompileInputs.cache
+E:\4_3Shifumi\Shifumi\Shifumi\obj\Debug\Shifumi.exe
+E:\4_3Shifumi\Shifumi\Shifumi\obj\Debug\Shifumi.pdb
