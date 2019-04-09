@@ -20,7 +20,11 @@ namespace Shifumi
     /// </summary>
     public partial class MainWindow : Window
     {
-        
+        //1 mettre le using System.Media; __ 2Double clic sur ressources.resx dans l'explorateur de solution(une page va s'ouvrir) __ 3clic sur ajouter une ressources et ajouter un fichier existant___ 4une fois le fichier voulu selectionné fermer la fenetre pour l'ajouter a la ressource
+        System.Media.SoundPlayer ciseaux = new System.Media.SoundPlayer(Shifumi.Properties.Resources.ciseaux);
+        System.Media.SoundPlayer feuille = new System.Media.SoundPlayer(Shifumi.Properties.Resources.feuille);
+        System.Media.SoundPlayer pierre = new System.Media.SoundPlayer(Shifumi.Properties.Resources.pierre);
+
         int counter = 0;
         int win = 0;
         int lose = 0;
@@ -30,22 +34,23 @@ namespace Shifumi
         public MainWindow()
         {
             InitializeComponent();
-            
-
         }
 
         private void BtnPierre_Click(object sender, RoutedEventArgs e)
         {
+            pierre.Play();
             user = 0;
         }
 
         private void BtnFeuille_Click(object sender, RoutedEventArgs e)
         {
+            feuille.Play();
             user = 1;
         }
 
         private void BtnCiseaux_Click(object sender, RoutedEventArgs e)
         {
+            ciseaux.Play();
             user = 2;
         }
 
